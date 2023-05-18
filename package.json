@@ -1,0 +1,15 @@
+{
+  "name": "@wcd/monkeyjabs.swc-menu-fork-lhqvhips",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve oPXMxECYa2Hl67I0mEG4 --open"
+  },
+  "dependencies": {
+    "@lit-labs/virtualizer": "1.0.1",
+    "lit": "2.7.4"
+  }
+}
